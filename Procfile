@@ -1,1 +1,1 @@
-web: versioneer-installer
+web: python setup.py
