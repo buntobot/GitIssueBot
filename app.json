@@ -1,0 +1,12 @@
+{
+  "name": "gitissuebot",
+  "description": "A bot for managing Github issues. Currently only supports approving and autolabeling newly created issues, more ideas in the works.",
+  "keywords": [
+    "bot",
+    "buntobot",
+    "bunto"
+  ],
+  "website": "https://github.com/buntobot",
+  "repository": "https://github.com/buntobot/GitIssueBot",
+  "logo": "https://raw.githubusercontent.com/buntobot/github-bot/master/buntobot.png"
+}
